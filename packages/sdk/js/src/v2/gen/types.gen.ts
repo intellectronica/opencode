@@ -1011,6 +1011,10 @@ export type KeybindsConfig = {
    */
   model_favorite_toggle?: string
   /**
+   * Toggle showing all models
+   */
+  model_show_all_toggle?: string
+  /**
    * Share current session
    */
   session_share?: string
